@@ -1,6 +1,7 @@
 
 # WeatherPy
 ----
+## A Look into how (and if) Weather is Affected by Latitude
 
 ### Analysis
 * Weather becomes significantly warmer as one approaches the equator. There appears more of these hot cities in the northern hemisphere, this may be due to the tilt of the earth and climate derived from constant and direct sunlight.
