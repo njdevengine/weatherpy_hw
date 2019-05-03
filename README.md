@@ -1,5 +1,5 @@
 
-# WeatherPy
+# WeatherPy :cloud: :zap:
 ----
 ## A Look into how (and if) Weather is Affected by Latitude
 
